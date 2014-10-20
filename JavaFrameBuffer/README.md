@@ -1,4 +1,8 @@
-JavaFrameBuffer
+This is original content of readme file. All library files has been copied from: https://github.com/ttww/JavaFrameBuffer/tree/master/JavaFrameBuffer
+
+
+
+"JavaFrameBuffer
 ===============
 
 Acces to Linux frame buffer devices from Java. E.g. for driving LCD SPI displays on the Raspberry Pi
@@ -13,3 +17,6 @@ If someone can compile the Windows JNI parts, please send me the script and the 
 
 Ciao,
   Thomas
+"
+Best regards
+Miquel ;) 
